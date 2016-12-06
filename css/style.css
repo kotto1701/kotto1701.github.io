@@ -6,8 +6,8 @@
 body {
 font-family:Roboto;
 border-width: 100px;
-margin-left: 100px;
-margin-right: 100px;
+margin-left: 200px;
+margin-right: 200px;
 }
 
 
@@ -37,13 +37,13 @@ a:link{
 
 table1 {
     border-collapse: collapse;
-    border: 1px, solid black;
+  
 }
 
 tr, td, th {
     padding: 15px;
     text-align: left;
-    border-bottom: 1px solid #ddd;
+
 }
 
 tr:nth-child(even) {
