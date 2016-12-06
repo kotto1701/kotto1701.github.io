@@ -44,16 +44,12 @@ tr, td, th {
     padding: 15px;
     text-align: left;
     border-bottom: 1px solid #ddd;
-    border: 1px
 }
 
 tr:nth-child(even) {
     background-color: #dddddd;
 }
 
-th {
-	background-color: #6495ED; 
-}
 
 h5 {
     padding-top: 100px;
