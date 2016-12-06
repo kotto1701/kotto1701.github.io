@@ -50,6 +50,9 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
 
+ul li {
+	margin-bottom: 10px; 
+	}
 
 h5 {
     padding-top: 100px;
